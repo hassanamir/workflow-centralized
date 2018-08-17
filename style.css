@@ -1,0 +1,15 @@
+g {
+    fill: red;
+}
+
+#main-banner {
+    
+    background-image:  url(https://blue-bottle-cms.global.ssl.fastly.net/hbhhv9rz9/image/upload/v1534352216/lmzxfpt6nzdiaxk21k85.jpg);
+        
+    height: 600px;
+    width: 100%;
+}
+
+nav nav-tabs { 
+    margin: 0 auto;
+}
